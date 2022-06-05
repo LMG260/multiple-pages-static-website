@@ -15,3 +15,14 @@ h3 {
 a {
   color: orange;
 }
+
+.bts-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
